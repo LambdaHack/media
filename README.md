@@ -1,4 +1,1 @@
-media
-=====
-
-Various media related to, but not bundled with, LambdaHack
+The place to put various media related to LambdaHack, e.g., screenshots, icons, videos. Most of them will never be bundled with the game engine. Some may be linked to from the game engine package or its web pages.
